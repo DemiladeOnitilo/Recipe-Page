@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #d1c4b0;
+}
+
+/* 
+.main-container{
+    background-color: white;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-inline: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: auto;
+    width: 600px;
+    border-radius: 25px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-inline: 50px;
+}
+
+.container h2{
+    font-size: 28px;
+    color: rgb(141, 66, 36);
+}
+
+.container ul{
+    font-size: 15px;
+    line-height: 1.8;
+    margin-inline: 20px;
+}
+
+.container ol{
+    font-size: 14px;
+    line-height: 1.8;
+    margin-inline: 20px;
+}
+
+.container span{
+    font-weight: bold;
+}
+
+.main-container img{
+    height: 250px;
+    width: 550px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.heading-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.heading-container h1{
+    font-size: 40px;
+}
+
+.heading-container p{
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.prep-container{
+    background-color: rgba(221, 160, 221, 0.219);
+    border-radius: 15px;
+    height: 150px;
+}
+
+.prep-container h3{
+    color: purple;
+    margin: 15px;
+}
+
+.prep{
+    margin-inline: 35px;
+}
+
+.ingredient-container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.instruction-container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.nutrition-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.nutrition-table p{
+    margin-bottom: 15px;
+}
+
+.nutrition-table table{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.nutrition-table th{
+    padding: 8px;
+    text-align: left;
+    font-weight: lighter;
+    border-bottom: 2px solid black;
+}
+
+.nutrition-table td{
+    padding: 8px;
+    text-align: left;
+    color: rgb(141, 66, 36);
+    font-weight: bold;
+    border-bottom: 2px solid black;
+} */
